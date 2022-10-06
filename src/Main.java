@@ -14,7 +14,7 @@ public class Main {
         System.out.println(d1.getAge());
         d1.getOlder();
         System.out.println(d1.getAge());
-        System.out.println(c1.getName()+" "+c1.getColour());
+        System.out.println(c1.getName()+" is a "+c1.getColour()+" cat who is a twat");
         s1.sleep();
         d1.sleep();
     }
